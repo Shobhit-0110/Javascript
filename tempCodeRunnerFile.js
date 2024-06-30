@@ -1,0 +1,1 @@
+console.log(array[2].name);
